@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kashifmemon09, An UnderGrad Student at Mehran UET, Jamshoro.
+- 👀 I’m interested in Artificial Intelligence & Machine Learning.
+- 🌱 I’m currently learning Advanced Python And Machine Learning.
+- 💞️ I’m looking to collaborate on open source projects and give my best to community.
+- 📫 you can always reach me ou via email: jkashif821@gmail.com
